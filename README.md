@@ -8,6 +8,5 @@ Numpy    -  to store Image in the form of array of numbers
 
 
 Image...
-
-
+![msd](https://user-images.githubusercontent.com/54909120/130192314-d05c433a-4a29-4135-8b23-caf59fdc5a64.jpg)
 
